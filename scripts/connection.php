@@ -3,7 +3,7 @@
 $host ="localhost";
 $usuario = "root";
 $senha = "";
-$banco = "milena";
+$banco = "sadm";
 
 $conn = mysqli_connect($host, $usuario, $senha, $banco);
 
